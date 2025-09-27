@@ -51,7 +51,7 @@ const bounceIn = {
   },
 }
 
-const WHATSAPP_GROUP_LINK = "https://chat.whatsapp.com/your-group-link-here"
+const WHATSAPP_GROUP_LINK = "https://chat.whatsapp.com/J6XiyxOGZY9AVkvNGiQuQl?mode=ems_copy_t"
 
 const downloadPDF = () => {
   const link = document.createElement("a")
