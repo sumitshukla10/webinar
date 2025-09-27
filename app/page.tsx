@@ -87,7 +87,7 @@ export default function WebinarLandingPage() {
           >
             <motion.div variants={bounceIn} className="mb-6">
               <Badge className="bg-white/20 text-white border-white/30 text-base sm:text-lg px-4 py-2 hover-scale">
-                🎓 FREE Live Webinar
+                🎓 FREEE Live Webinar
               </Badge>
             </motion.div>
 
